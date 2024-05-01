@@ -30,5 +30,5 @@ docker build -t fastapi-video-streaming . // This assumes you are in the directo
 ```
 2. Run the container
 ```sh
-docker run -itd --name <name> <image tag> // Replace "<name>" and "<image tag> with the container name and image name respectively"
+docker run -itd --name <name> <image tag> // Replace "<name>" and "<image tag>" with the container name and image name respectively
 ```  
